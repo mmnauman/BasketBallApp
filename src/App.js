@@ -86,7 +86,7 @@ function App() {
     <Store>
       <Nav />
       <div className="App">
-        <Route exact path="/">
+        <Route exact path="/BasketBallApp/">
           <MainStyled>
             <h1>Basket Ball Manager</h1>
             <div className="AppDetails">
@@ -119,14 +119,14 @@ function App() {
           </MainStyled>
         </Route>
 
-        <Route path="/create">
+        <Route path="/BasketBallApp/create">
           <CreateTeam />
         </Route>
-        <Route path="/event">
+        <Route path="/BasketBallApp/event">
           <FirstQuarter />
         </Route>
 
-        <Route path="/about">
+        <Route path="/BasketBallApp/about">
           <ABOUT />
         </Route>
       </div>
