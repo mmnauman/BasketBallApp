@@ -34,16 +34,16 @@ a{
 function Nav() {
   return (
     <NavStyled>
-      <NavLink to="/" exact activeClassName="active">
+      <NavLink to="./" exact activeClassName="active">
         Home
       </NavLink>
-      <NavLink to="/create" activeClassName="active">
+      <NavLink to="./create" activeClassName="active">
         Compose Team
       </NavLink>
-      <NavLink to="/event" activeClassName="active">
+      <NavLink to="./event" activeClassName="active">
         First Quarter
       </NavLink>
-      <NavLink to="/about" activeClassName="active">
+      <NavLink to="./about" activeClassName="active">
         ABOUT
       </NavLink>
     </NavStyled>
