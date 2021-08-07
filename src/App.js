@@ -119,14 +119,14 @@ function App() {
           </MainStyled>
         </Route>
 
-        <Route path="/BasketBallApp/create">
+        <Route exact path="/BasketBallApp/create">
           <CreateTeam />
         </Route>
-        <Route path="/BasketBallApp/event">
+        <Route exact path="/BasketBallApp/event">
           <FirstQuarter />
         </Route>
 
-        <Route path="/BasketBallApp/about">
+        <Route exact path="/BasketBallApp/about">
           <ABOUT />
         </Route>
       </div>
