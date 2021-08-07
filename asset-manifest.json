@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BasketBallApp/static/css/main.53717e5e.chunk.css",
+    "main.js": "/BasketBallApp/static/js/main.5b52beff.chunk.js",
+    "main.js.map": "/BasketBallApp/static/js/main.5b52beff.chunk.js.map",
+    "runtime-main.js": "/BasketBallApp/static/js/runtime-main.cabad6c2.js",
+    "runtime-main.js.map": "/BasketBallApp/static/js/runtime-main.cabad6c2.js.map",
+    "static/css/2.9082872e.chunk.css": "/BasketBallApp/static/css/2.9082872e.chunk.css",
+    "static/js/2.62e188f9.chunk.js": "/BasketBallApp/static/js/2.62e188f9.chunk.js",
+    "static/js/2.62e188f9.chunk.js.map": "/BasketBallApp/static/js/2.62e188f9.chunk.js.map",
+    "index.html": "/BasketBallApp/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/BasketBallApp/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.53717e5e.chunk.css.map": "/BasketBallApp/static/css/main.53717e5e.chunk.css.map",
+    "static/js/2.62e188f9.chunk.js.LICENSE.txt": "/BasketBallApp/static/js/2.62e188f9.chunk.js.LICENSE.txt",
+    "static/media/BG2.e211ec51.jpg": "/BasketBallApp/static/media/BG2.e211ec51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cabad6c2.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.62e188f9.chunk.js",
+    "static/css/main.53717e5e.chunk.css",
+    "static/js/main.5b52beff.chunk.js"
+  ]
+}
