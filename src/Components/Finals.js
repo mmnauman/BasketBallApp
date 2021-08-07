@@ -116,7 +116,7 @@ function FirstQuarter() {
 
   useEffect(() => {
     console.log(states.length, selectedStates.length);
-    states.length === 5 && selectedStates.length === 5
+    states.length >= 5 && selectedStates.length >= 5
       ? setSubmitBtn(true)
       : setSubmitBtn(false);
   }, [
